@@ -49,6 +49,11 @@
   height: 30px;
 }
 
+#main-nav a.active {
+  font-weight: 700;
+  color: #F56D7C;
+}
+
 @media (min-width: 501px) {
   #main-nav ul {
     display: flex;

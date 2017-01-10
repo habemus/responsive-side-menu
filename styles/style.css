@@ -6,3 +6,8 @@ body {
   background-color: #FFCED0;
   font-family: 'Dosis', sans-serif;
 }
+
+#main-content {
+  /* padding-top should match header's height */
+  padding-top: 80px;
+}

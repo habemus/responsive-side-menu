@@ -13,7 +13,7 @@ This starter project comes with a menu that adequates itself to the screen width
 - in large devices (>500px) the navigation menu is displayed in the top of the page
 - in smaller devices (<=500px) the menu is hidden by default and can be opened by clicking on a menu button on the top left of the page
 
-![preview](https://github.com/habemus/responsive-side-menu/raw/master/preview.gif "Preview")
+![preview](https://github.com/habemus/starter-responsive-side-menu/raw/master/preview.gif "Preview")
 
 ## File structure
 
